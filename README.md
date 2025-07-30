@@ -16,3 +16,7 @@
 [<img src="./assets/social/tiktok.png"/>][tiktok]
 
 
+### :zap: Mis Actividades Recientes
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
