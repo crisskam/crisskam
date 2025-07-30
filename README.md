@@ -2,12 +2,17 @@
 
 :computer: **Ingeniero de Sistemas**
 :pencil: **Back-end**
-:Location: **Colombia-Bogota**
+:eyeglasses: **Aprendiendo**
 :e-mail: **cristinkam11@gmail.com**
+:family:**¡El papá mas feliz del mundo!**
 
 
 ### Vias de contacto
 
-![Website](https://www.xtrafondos.com/buscar/computador#google_vignette)
+![Website](https://github.com/crisskam)
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/crisskam/crisskam)
+### Redes Sociales
+
+[<img src="./assets/social/tiktok.png"/>][tiktok]
+
+
