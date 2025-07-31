@@ -13,8 +13,8 @@
 
 ### Redes Sociales
 
-[<img src="./assets/social/tiktok.png"/>][tiktok]
-
+[<img src="./assets/social/Tiktok.png"/>][Tiktok]
+[<img src="./assets/social/LinkedIn.png"/>][LinkedIn]
 
 ### :zap: Mis Actividades Recientes
 <!--START_SECTION:activity-->
