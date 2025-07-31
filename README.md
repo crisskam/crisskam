@@ -6,7 +6,6 @@
 :e-mail: **cristinkam11@gmail.com**
 :family:**¡El papá mas feliz del mundo!**
 
-
 ### Vias de contacto
 
 ![Website](https://github.com/crisskam)
@@ -17,6 +16,5 @@
 [<img src="./assets/social/LinkedIn.png"/>][LinkedIn]
 
 ### :zap: Mis Actividades Recientes
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
